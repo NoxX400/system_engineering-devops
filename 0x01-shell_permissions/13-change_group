@@ -1,0 +1,4 @@
+#!/bin/bash
+# Changes the group owner of hello to school
+
+chown :school hello
