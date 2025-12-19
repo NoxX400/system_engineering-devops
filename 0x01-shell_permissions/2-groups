@@ -1,0 +1,4 @@
+#!/bin/bash
+# Prints all groups the current user is part of
+
+groups
