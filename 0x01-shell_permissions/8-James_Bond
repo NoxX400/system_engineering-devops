@@ -1,0 +1,4 @@
+#!/bin/bash
+# Sets permissions: owner none, group none, others all
+
+chmod 007 hello
