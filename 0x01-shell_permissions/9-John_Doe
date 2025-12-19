@@ -1,0 +1,4 @@
+#!/bin/bash
+# Sets permissions to -rwxr-x-wx
+
+chmod 753 hello
